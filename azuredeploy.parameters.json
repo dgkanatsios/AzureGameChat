@@ -3,10 +3,10 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "appName": {
-            "value": "azuregamechat-server"
+            "value": "azuregamechatserver"
         },
         "dockerImageName": {
-            "value": "dgkanatsios/azuregamechat:0.1"
+            "value": "dgkanatsios/azuregamechatserver:0.1"
         }
 
     }
