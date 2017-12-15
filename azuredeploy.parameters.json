@@ -4,6 +4,10 @@
     "parameters": {
         "appName": {
             "value": "azuregamechat-server"
+        },
+        "dockerImageName": {
+            "value": "dgkanatsios/azuregamechat:0.1"
         }
+
     }
 }

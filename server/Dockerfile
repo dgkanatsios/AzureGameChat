@@ -1,6 +1,6 @@
 FROM mhart/alpine-node:8.9.3
 
-ENV NODE_ENV production
+ENV NODE_ENV=production
 
 RUN addgroup -S appuser && adduser -S -g appuser appuser 
 ENV HOME=/home/appuser
