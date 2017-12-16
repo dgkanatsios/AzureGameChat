@@ -7,7 +7,7 @@
       "type": "string"
     },
     "dockerImageName": {
-      "defaultValue": "dgkanatsios/azuregamechatserver:0.1",
+      "defaultValue": "docker.io/dgkanatsios/azuregamechatserver:0.1",
       "type": "string"
     }
   },
