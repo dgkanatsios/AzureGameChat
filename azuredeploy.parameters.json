@@ -6,7 +6,7 @@
             "value": "azuregamechatserver"
         },
         "dockerImageName": {
-            "value": "dgkanatsios/azuregamechatserver:0.1"
+            "value": "docker.io/dgkanatsios/azuregamechatserver:0.1"
         }
 
     }
